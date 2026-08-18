@@ -3,7 +3,7 @@ AIのおかげで、思いついたアイデアを形にすることにハマっ
 
 📦 Claude Code用に作ったプラグインを公開しています → [saita08/tks08-plugins](https://github.com/saita08/tks08-plugins)
 
-🔗 [LinkedIn](https://www.linkedin.com/in/tks08/)
+🔗 連絡はこちらから → [LinkedIn](https://www.linkedin.com/in/tks08/)
 
 ---
 
@@ -12,4 +12,4 @@ AI is what got me hooked on turning ideas into working things. Claude is my main
 
 📦 I've published a few plugins for Claude Code → [saita08/tks08-plugins](https://github.com/saita08/tks08-plugins)
 
-🔗 [LinkedIn](https://www.linkedin.com/in/tks08/)
+🔗 Get in touch → [LinkedIn](https://www.linkedin.com/in/tks08/)
